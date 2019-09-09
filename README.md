@@ -1,2 +1,2 @@
 # Arduino_Oscilloscope
-Hexbee.blogspot.com
+www.Hexbee.blogspot.com
